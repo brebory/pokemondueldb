@@ -1,0 +1,8 @@
+require 'rubygems'
+require 'nokogiri'
+require 'open-uri'
+require 'sequel'
+require_relative '../src/model/Ability'
+require_relative '../src/model/Figure'
+require_relative '../src/model/Move'
+require_relative '../src/model/Type'
